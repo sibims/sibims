@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SIBI M S
-- 👀 I’m interested in Data Structures
-- 🌱 I’m currently learning C/C++ Programming
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning C# Programming
 - 💞️ I’m looking to collaborate on a project
 - 📫 Reach me at sibi.ct19@bitsathy.ac.in
 
