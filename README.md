@@ -1,6 +1,4 @@
-<h1 align="center">
- <img src="[image-url-here](https://github.com/sibims/sibims/blob/main/assets/SIBI%20M%20S.png)" />
-</h1>
+<img src="[image-url-here](https://github.com/sibims/sibims/blob/main/assets/SIBI%20M%20S.png)" />
 
 - 👋 Hi, I’m SIBI M S
 - 👀 I’m interested in Backend Development
