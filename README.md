@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://github.com/sibims/sibims/blob/main/assets/SIBI%20M%20S.png"/>
+ <img src="https://github.com/sibims/sibims/blob/main/assets/SIBI%20M%20S.png"/>Banner
 </h1>
 - 👋 Hi, I’m SIBI M S
 - 👀 I’m interested in Backend Development
