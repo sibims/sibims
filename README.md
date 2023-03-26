@@ -13,7 +13,7 @@ I'm currently working on Aspire Systems
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sibims&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sibims&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sibims&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sibims&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 <a href="https://app.daily.dev/sibims07"><img src="https://api.daily.dev/devcards/25caebcaa432457ab35a2c3fff3e727a.png?r=qmj" width="250" alt="SIBI M S's Dev Card"/></a>
 
 ## 🏆 GitHub Trophies
