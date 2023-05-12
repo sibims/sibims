@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/sibims/sibims/main/assets/SIBI%20M%20S.png)
+![Banner](assest/GitHub.png)
 
 # 💫 About Me:
 I'm currently working on Aspire Systems
