@@ -14,7 +14,7 @@ I'm currently working on Aspire Systems
 ![](https://github-readme-stats.vercel.app/api?username=sibims&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sibims&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sibims&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-<a href="https://app.daily.dev/sibims07"><img src="https://api.daily.dev/devcards/25caebcaa432457ab35a2c3fff3e727a.png?r=qmj" width="250" alt="SIBI M S's Dev Card"/></a>
+<a href="https://app.daily.dev/sibims07"><img src="https://api.daily.dev/devcards/v2/CoDz44tULWkgHt9OBerMw.png?r=ju6&type=default" width="356" alt="SIBI M S's Dev Card"/></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sibims&theme=radical&no-frame=false&no-bg=true&margin-w=4)
