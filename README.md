@@ -5,7 +5,7 @@ Binary Explorer
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isthatsibi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sibi_senthil) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg)](https://instagram.com/isthatsibi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg)](https://twitter.com/sibi_senthil) ![Portfolio](https://img.shields.io/badge/Portfolio-brown?link=https://sibims.vercel.app)
 
 # 💻 Tech Stack:
 [![Tech Stacks](https://skillicons.dev/icons?i=py,c,cpp,html,css,ts,aws,py,linux,bash,git,github,jenkins,mysql)](https://skillicons.dev)<br />
